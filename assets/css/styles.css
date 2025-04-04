@@ -300,14 +300,14 @@ img {
     color: var(--first-color-alt);
 }
 
-.home_blob{
+/* .home_blob{
     width: 200px;
     fill: var(--first-color);
 }
 
 .home_blob_img{
     width: 200px;
-}
+} */
 
 .home_data{
     grid-column: 1/3;
